@@ -443,8 +443,8 @@ input[type=submit] {
   /* Portfolio */
   .work {
     position:relative;
-    width:40%;
-    left: 5%;
+    width:100%;
+    left: 0%;
   }
 }
 /* For screens that are 640px or smaller 
