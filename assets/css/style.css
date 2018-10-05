@@ -179,6 +179,10 @@ h3,
   opacity: 0.8;
 }
 
+.work img:hover {
+  opacity: 0.5;
+}
+
 .work h3 {
   position: absolute;
   bottom: 20px;
